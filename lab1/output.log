@@ -1,4 +1,0 @@
-WARNING: tb.sv:45: $readmemb(in_bin.mem): Not enough words in the file for the requested range [0:1999].
-VCD info: dumpfile tb.vcd opened for output.
-VCD warning: $dumpvars: Package ($unit) is not dumpable with VCD.
-tb.sv:58: $finish called at 1000500000 (1ps)
